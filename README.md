@@ -1,16 +1,13 @@
-### Hi there hello 👋
-
-
-**Raghu-Reddy77/Raghu-Reddy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello Dev 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...hhh
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently Studying at ... veltech university
+- 🌱 I’m currently learning ... MERN stack
+- 👯 I’m looking to collaborate on ... MERN stack
+- 🤔 I’m looking for help with ... MERN stack
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [instagram page](https://instagram.com/java_quizs?utm_medium=copy_link)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... i am half finissh
 
