@@ -31,6 +31,9 @@
   <a href="https://www.instagram.com/java_quizs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" />
   </a>
+  <a href="https://www.instagram.com/java_quizs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" />
+  </a>
   <a href="https://www.youtube.com/@javaQuizs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="30" />
   </a>
