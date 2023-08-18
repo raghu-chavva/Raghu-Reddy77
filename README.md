@@ -11,7 +11,7 @@
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 ###
-[[[![trophy](https://github-profile-trophy.vercel.app/?username=Raghu-Reddy77)](https://github.com/Raghu-Reddy77/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=Raghu-Reddy77&theme=flat)](https://github-profile-trophy.vercel.app/?username=Raghu-Reddy77&theme=flat)
+https://github-profile-trophy.vercel.app/?username=Raghu-Reddy77&theme=flat
 ###
 <h3 align="left">About me</h3>
 
