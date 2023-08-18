@@ -20,6 +20,15 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/raghu-chavva/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  </a>
+  <!-- Add more social media links/icons as needed -->
+</div>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
