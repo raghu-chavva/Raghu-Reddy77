@@ -20,13 +20,14 @@
 
 ###
 
-<h2 align="left">Social Media Handles</h2>
+<h3 align="left">Social Media Handles</h3>
 
 ###
 
 <div align="left">
+  <p1>🔗Portfolio: </p1>
   <a href="https://bento.me/raghuchavva" target="_blank">
-    <img src="[https://bento.me/images/favicon.png](https://avatars.githubusercontent.com/u/74637902?v=4)" alt="Portfolio" height="30" />
+        https://bento.me/raghuchavva
   </a>
 </div>
 
