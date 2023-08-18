@@ -1,13 +1,69 @@
-### Hello Dev 👋
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raghu-Reddy77.Raghu-Reddy77&"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently Studying at ... veltech university
-- 🌱 I’m currently learning ... MERN stack
-- 👯 I’m looking to collaborate on ... MERN stack
-- 🤔 I’m looking for help with ... MERN stack
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [instagram page](https://instagram.com/java_quizs?utm_medium=copy_link)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... i am half finissh
+<h1 align="center">Hi 👋, I'm Raghu Chavva</h1>
 
+###
+
+<p align="center">A Passionate Full-Stack Developer from India</p>
+
+###
+
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I’m currently learning Spring<br>🤝 I’m looking for a role Software Engineer<br>⚡ Fun fact I speak fluent Java</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghu-Reddy77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghu-Reddy77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Raghu-Reddy77&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@raghunathchavva&theme=codeSTACKr" alt="Layout with last medium posts"  />
+</div>
+
+###
