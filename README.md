@@ -8,10 +8,11 @@
 
 ###
 
-<p align="center">A Passionate Full-Stack Developer from India</p>
+<h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 ###
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raghu-Reddy77)](https://github.com/ryo-ma/github-profile-trophy)
+###
 <h3 align="left">About me</h3>
 
 ###
