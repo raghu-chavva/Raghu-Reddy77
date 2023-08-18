@@ -11,8 +11,6 @@
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 ###
-https://github-profile-trophy.vercel.app/?username=Raghu-Reddy77&theme=flat
-###
 <h3 align="left">About me</h3>
 
 ###
