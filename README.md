@@ -25,25 +25,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/raghu-chavva/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  <a href="https://bento.me/raghuchavva" target="_blank">
+    <img src="[https://bento.me/images/favicon.png](https://avatars.githubusercontent.com/u/74637902?v=4)" alt="Portfolio" height="30" />
   </a>
-  <a href="https://www.instagram.com/java_quizs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" />
-  </a>
-  <a href="https://www.instagram.com/java_quizs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" />
-  </a>
-  <a href="https://www.youtube.com/@javaQuizs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="30" />
-  </a>
-  <a href="https://twitter.com/java_quizs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" />
-  </a>
-  <a href="https://ttttt.me/java_quizss" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" height="30" />
-  </a>
-  <!-- Add more social media links/icons as needed -->
 </div>
 
 ###
